@@ -13,8 +13,4 @@ Before you begin, ensure you have the following tools installed:
 - npm (or yarn)
 - MongoDB
 
-### Installing
 
-Follow these steps to set up your local development environment:
-
-1. Clone the repository:
